@@ -13,7 +13,7 @@ It is written in Java using the [JDA](https://github.com/DV8FromTheWorld/JDA) li
 - And much more!
 
 ## Support
-If you need help with the bot, you can join the [support server](/discord) and ask for help in the `#❓fluxifyed-support` channel.
+If you need help with the bot, you can join the [support server](/discord) and ask for help in the #fluxifyed-support channel.
 
 ## Contributing
 If you want to contribute to the bot, you can do so by forking the [GitHub repository](https://github.com/Fluxifyed/Fluxifyed) and making a pull request.
