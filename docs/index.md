@@ -13,7 +13,7 @@ It is written in Java using the [JDA](https://github.com/DV8FromTheWorld/JDA) li
 - And much more!
 
 ## Support
-If you need help with the bot, you can join the [support server](https://fluxifyed.foxes4life.net/discord) and ask for help in the `#❓fluxifyed-support` channel.
+If you need help with the bot, you can join the [support server](/discord) and ask for help in the `#❓fluxifyed-support` channel.
 
 ## Contributing
 If you want to contribute to the bot, you can do so by forking the [GitHub repository](https://github.com/Fluxifyed/Fluxifyed) and making a pull request.
@@ -29,10 +29,10 @@ Fluxifyed is licensed under the [MIT License](https://github.com/Fluxifyed/Fluxi
 - [RoootTheFox](https://github.com/RoootTheFox)
 
 ## Helpful Links
-- [Website](https://fluxifyed.foxes4life.net)
-- [Invite](https://fluxifyed.foxes4life.net/invite)
-- [Support Server](https://fluxifyed.foxes4life.net/discord)
+- [Website](/)
+- [Invite](/invite)
+- [Support Server](/discord)
 - [GitHub](https://github.com/Fluxifyed/Fluxifyed)
-- [Documentation](https://fluxifyed.foxes4life.net/docs)
+- [Documentation](/docs)
 
-> **Note:** This documentation is still a work in progress. If you have any questions, feel free to join the [support server](https://discord.gg/GaKKeWg).
+> **Note:** This documentation is still a work in progress. If you have any questions, feel free to join the [support server](/discord).
